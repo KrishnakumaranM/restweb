@@ -1,0 +1,75 @@
+.admin-title {
+    text-align: center;
+    margin: 30px 0;
+    padding: 10px;
+    background-color: #0277bd; /* Deep Blue */
+    color: #ffffff; /* White */
+    font-size: 2rem;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+/* Administration List */
+.admin-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff; /* White */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    height: fit-content;
+}
+
+.admin-list {
+    list-style: none;
+    padding: 0;
+}
+
+.admin-list li {
+    background-color: #e0f7fa; /* Light Blue */
+    margin: 10px 0;
+    padding: 15px;
+    border: 1px solid #0288d1; /* Light Blue Border */
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #0277bd; /* Deep Blue */
+    transition: all 0.3s ease;
+}
+
+.admin-list li:hover {
+    background-color: #0277bd; /* Deep Blue */
+    color: #ffffff; /* White */
+    cursor: pointer;
+}
+
+.admin-container .admin-containter-left {
+    width: 300px;
+    height: auto;
+}
+
+.admin-container .admin-containter-left img {
+    width: 100%;
+    border-radius: 18px;
+    margin-top: 10px;
+}
+
+.admin-content ul p {
+    text-align: center;
+    color: #0277bd; /* Deep Blue */
+}
+
+.page-title {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    color: #0277bd; /* Deep Blue */
+}
+
+.page-title div {
+    font-size: 22px;
+    font-weight: bold;
+}
