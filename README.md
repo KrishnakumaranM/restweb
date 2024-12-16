@@ -799,8 +799,9 @@ admin.css
 ## OUTPUT:
 ![alt text](<Screenshot (36).png>)
 ![alt text](<Screenshot (37).png>)
-![alt text](<Screenshot (38).png>)
-![alt text](<Screenshot (39).png>)
+![Screenshot (40)](https://github.com/user-attachments/assets/ed2de571-ea06-4a4a-8b65-af47fbcd18bd)
+![Screenshot (41)](https://github.com/user-attachments/assets/baf532ed-911d-4528-a017-d8bc4fdeaa8f)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
